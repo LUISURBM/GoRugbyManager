@@ -12,4 +12,4 @@
 
 This is the link for registration **20.20 release and later**.
 
-- LTS release: [20.20](https://rugby-www.herokuapp.com/dashboard)
+- LTS release: [20.20](https://rugby-www.herokuapp.com/register/register-with-email)
